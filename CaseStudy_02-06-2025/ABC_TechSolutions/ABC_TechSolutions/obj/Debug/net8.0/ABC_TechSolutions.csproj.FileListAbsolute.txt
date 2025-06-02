@@ -1,0 +1,15 @@
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\bin\Debug\net8.0\ABC_TechSolutions.exe
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\bin\Debug\net8.0\ABC_TechSolutions.deps.json
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\bin\Debug\net8.0\ABC_TechSolutions.runtimeconfig.json
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\bin\Debug\net8.0\ABC_TechSolutions.dll
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\bin\Debug\net8.0\ABC_TechSolutions.pdb
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\obj\Debug\net8.0\ABC_TechSolutions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\obj\Debug\net8.0\ABC_TechSolutions.AssemblyInfoInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\obj\Debug\net8.0\ABC_TechSolutions.AssemblyInfo.cs
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\obj\Debug\net8.0\ABC_TechSolutions.csproj.CoreCompileInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\obj\Debug\net8.0\ABC_TechSolutions.sourcelink.json
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\obj\Debug\net8.0\ABC_TechSolutions.dll
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\obj\Debug\net8.0\refint\ABC_TechSolutions.dll
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\obj\Debug\net8.0\ABC_TechSolutions.pdb
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\obj\Debug\net8.0\ABC_TechSolutions.genruntimeconfig.cache
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\ABC_TechSolutions\ABC_TechSolutions\obj\Debug\net8.0\ref\ABC_TechSolutions.dll

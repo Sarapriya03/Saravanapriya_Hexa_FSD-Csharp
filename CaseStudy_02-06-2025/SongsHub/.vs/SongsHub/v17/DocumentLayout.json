@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\SongsHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF188729-04EC-43B5-B6D8-D30033914C18}|SongsHub\\SongsHub.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\songshub\\songshub\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF188729-04EC-43B5-B6D8-D30033914C18}|SongsHub\\SongsHub.csproj|solutionrelative:songshub\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF188729-04EC-43B5-B6D8-D30033914C18}|SongsHub\\SongsHub.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\songshub\\songshub\\songshub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF188729-04EC-43B5-B6D8-D30033914C18}|SongsHub\\SongsHub.csproj|solutionrelative:songshub\\songshub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF188729-04EC-43B5-B6D8-D30033914C18}|SongsHub\\SongsHub.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\songshub\\songshub\\dao\\myplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF188729-04EC-43B5-B6D8-D30033914C18}|SongsHub\\SongsHub.csproj|solutionrelative:songshub\\dao\\myplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF188729-04EC-43B5-B6D8-D30033914C18}|SongsHub\\SongsHub.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\songshub\\songshub\\dao\\iplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF188729-04EC-43B5-B6D8-D30033914C18}|SongsHub\\SongsHub.csproj|solutionrelative:songshub\\dao\\iplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF188729-04EC-43B5-B6D8-D30033914C18}|SongsHub\\SongsHub.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\songshub\\songshub\\model\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF188729-04EC-43B5-B6D8-D30033914C18}|SongsHub\\SongsHub.csproj|solutionrelative:songshub\\model\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SongsHub.csproj",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\SongsHub\\SongsHub\\SongsHub.csproj",
+              "RelativeDocumentMoniker": "SongsHub\\SongsHub.csproj",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\SongsHub\\SongsHub\\SongsHub.csproj",
+              "RelativeToolTip": "SongsHub\\SongsHub.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T12:12:01.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyPlayList.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\SongsHub\\SongsHub\\dao\\MyPlayList.cs",
+              "RelativeDocumentMoniker": "SongsHub\\dao\\MyPlayList.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\SongsHub\\SongsHub\\dao\\MyPlayList.cs",
+              "RelativeToolTip": "SongsHub\\dao\\MyPlayList.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:53:14.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPlaylist.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\SongsHub\\SongsHub\\dao\\IPlaylist.cs",
+              "RelativeDocumentMoniker": "SongsHub\\dao\\IPlaylist.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\SongsHub\\SongsHub\\dao\\IPlaylist.cs",
+              "RelativeToolTip": "SongsHub\\dao\\IPlaylist.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:51:08.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Song.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\SongsHub\\SongsHub\\model\\Song.cs",
+              "RelativeDocumentMoniker": "SongsHub\\model\\Song.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\SongsHub\\SongsHub\\model\\Song.cs",
+              "RelativeToolTip": "SongsHub\\model\\Song.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:49:36.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\SongsHub\\SongsHub\\main\\Program.cs",
+              "RelativeDocumentMoniker": "SongsHub\\main\\Program.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\SongsHub\\SongsHub\\main\\Program.cs",
+              "RelativeToolTip": "SongsHub\\main\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:48:30.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

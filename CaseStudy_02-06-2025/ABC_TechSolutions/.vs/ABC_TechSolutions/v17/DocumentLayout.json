@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\abc_techsolutions\\abc_techsolutions\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|solutionrelative:abc_techsolutions\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\abc_techsolutions\\abc_techsolutions\\abc_techsolutions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|solutionrelative:abc_techsolutions\\abc_techsolutions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\abc_techsolutions\\abc_techsolutions\\dao\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|solutionrelative:abc_techsolutions\\dao\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\abc_techsolutions\\abc_techsolutions\\dao\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|solutionrelative:abc_techsolutions\\dao\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\abc_techsolutions\\abc_techsolutions\\dao\\iparttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|solutionrelative:abc_techsolutions\\dao\\iparttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\abc_techsolutions\\abc_techsolutions\\dao\\ifulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|solutionrelative:abc_techsolutions\\dao\\ifulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\abc_techsolutions\\abc_techsolutions\\dao\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|solutionrelative:abc_techsolutions\\dao\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|e:\\hexaware\\.net_angular fsd\\02-06-2025\\abc_techsolutions\\abc_techsolutions\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD9CFFA-1C62-4ECD-997E-84C4F7F6284D}|ABC_TechSolutions\\ABC_TechSolutions.csproj|solutionrelative:abc_techsolutions\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ABC_TechSolutions",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\ABC_TechSolutions.csproj",
+              "RelativeDocumentMoniker": "ABC_TechSolutions\\ABC_TechSolutions.csproj",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\ABC_TechSolutions.csproj",
+              "RelativeToolTip": "ABC_TechSolutions\\ABC_TechSolutions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T12:16:02.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPartTimeEmployee.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\dao\\IPartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "ABC_TechSolutions\\dao\\IPartTimeEmployee.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\dao\\IPartTimeEmployee.cs",
+              "RelativeToolTip": "ABC_TechSolutions\\dao\\IPartTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:32:04.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFullTimeEmployee.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\dao\\IFullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "ABC_TechSolutions\\dao\\IFullTimeEmployee.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\dao\\IFullTimeEmployee.cs",
+              "RelativeToolTip": "ABC_TechSolutions\\dao\\IFullTimeEmployee.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:22:59.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\dao\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "ABC_TechSolutions\\dao\\FullTimeEmployee.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\dao\\FullTimeEmployee.cs",
+              "RelativeToolTip": "ABC_TechSolutions\\dao\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:33:10.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\model\\Employee.cs",
+              "RelativeDocumentMoniker": "ABC_TechSolutions\\model\\Employee.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\model\\Employee.cs",
+              "RelativeToolTip": "ABC_TechSolutions\\model\\Employee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:18:16.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\dao\\IEmployee.cs",
+              "RelativeDocumentMoniker": "ABC_TechSolutions\\dao\\IEmployee.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\dao\\IEmployee.cs",
+              "RelativeToolTip": "ABC_TechSolutions\\dao\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:29:03.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\dao\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "ABC_TechSolutions\\dao\\PartTimeEmployee.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\dao\\PartTimeEmployee.cs",
+              "RelativeToolTip": "ABC_TechSolutions\\dao\\PartTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:35:17.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\main\\Program.cs",
+              "RelativeDocumentMoniker": "ABC_TechSolutions\\main\\Program.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\main\\Program.cs",
+              "RelativeToolTip": "ABC_TechSolutions\\main\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:16:51.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\obj\Debug\net8.0\SongsHub.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\obj\Debug\net8.0\SongsHub.AssemblyInfoInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\obj\Debug\net8.0\SongsHub.AssemblyInfo.cs
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\obj\Debug\net8.0\SongsHub.csproj.CoreCompileInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\obj\Debug\net8.0\SongsHub.sourcelink.json
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\bin\Debug\net8.0\SongsHub.exe
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\bin\Debug\net8.0\SongsHub.deps.json
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\bin\Debug\net8.0\SongsHub.runtimeconfig.json
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\bin\Debug\net8.0\SongsHub.dll
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\bin\Debug\net8.0\SongsHub.pdb
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\obj\Debug\net8.0\SongsHub.dll
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\obj\Debug\net8.0\refint\SongsHub.dll
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\obj\Debug\net8.0\SongsHub.pdb
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\obj\Debug\net8.0\SongsHub.genruntimeconfig.cache
+E:\Hexaware\.NET_ANGULAR FSD\02-06-2025\SongsHub\SongsHub\obj\Debug\net8.0\ref\SongsHub.dll

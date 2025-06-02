@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mttNs0iXEQI=",
+  "success": true,
+  "projectFilePath": "E:\\Hexaware\\.NET_ANGULAR FSD\\02-06-2025\\ABC_TechSolutions\\ABC_TechSolutions\\ABC_TechSolutions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T SARAVANAPRIYA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\T SARAVANAPRIYA\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\T SARAVANAPRIYA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\T SARAVANAPRIYA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.16\\microsoft.netcore.app.host.win-x64.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
