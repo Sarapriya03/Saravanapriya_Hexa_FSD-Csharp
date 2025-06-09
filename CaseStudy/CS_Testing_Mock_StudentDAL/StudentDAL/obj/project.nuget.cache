@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6U708pD+L/U=",
+  "success": true,
+  "projectFilePath": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\StudentDAL\\StudentDAL\\StudentDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T SARAVANAPRIYA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\T SARAVANAPRIYA\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\T SARAVANAPRIYA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
