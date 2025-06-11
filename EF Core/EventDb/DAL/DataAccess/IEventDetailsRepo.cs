@@ -11,7 +11,7 @@ namespace DAL.DataAccess
         List<T> GetEventsByCategory(string category);
         T UpdateEvent(T eventDetails);
         T AddEvent(T eventDetails);
-        T DeleteEvent(int eventName);
+        T DeleteEvent(int eventId);
         List<T> GetAllEvents();
 
     }

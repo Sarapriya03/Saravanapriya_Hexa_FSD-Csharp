@@ -1,5 +1,6 @@
 ﻿using DAL.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.SqlServer;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,22 +23,17 @@ namespace DAL.DataAccess
         {
             using (var dbContext = new EventDbContext())
             {
-                var existingEvent = dbContext.Events
-                                             .FirstOrDefault(e => e.EventId == eventDetails.EventId);
+                var rowsAffected = dbContext.Database.ExecuteSqlRaw(
+                    "EXEC sp_UpdateEvent @EventId = {0}, @EventName = {1}, @EventCategory = {2}, @EventDate = {3}, @Description = {4}, @Status = {5}",
+                    eventDetails.EventId,
+                    eventDetails.EventName,
+                    eventDetails.EventCategory,
+                    eventDetails.EventDate,
+                    eventDetails.Description,
+                    eventDetails.Status
+                );
 
-                if (existingEvent != null)
-                {
-                    existingEvent.EventName = eventDetails.EventName;
-                    existingEvent.EventCategory = eventDetails.EventCategory;
-                    existingEvent.EventDate = eventDetails.EventDate;
-                    existingEvent.Description = eventDetails.Description;
-                    existingEvent.Status = eventDetails.Status;
-
-                    dbContext.SaveChanges();
-                    return existingEvent;
-                }
-
-                return null;
+                return rowsAffected > 0 ? eventDetails : null;
             }
         }
 
@@ -45,9 +41,16 @@ namespace DAL.DataAccess
         {
             using (var dbContext = new EventDbContext())
             {
-                dbContext.Events.Add(eventDetails);
-                dbContext.SaveChanges();
-                return eventDetails;
+                var rowsAffected = dbContext.Database.ExecuteSqlRaw(
+                    "EXEC sp_InsertEvent @EventName = {0}, @EventCategory = {1}, @EventDate = {2}, @Description = {3}, @Status = {4}",
+                    eventDetails.EventName,
+                    eventDetails.EventCategory,
+                    eventDetails.EventDate,
+                    eventDetails.Description,
+                    eventDetails.Status
+                );
+
+                return rowsAffected > 0 ? eventDetails : null;
             }
         }
 
@@ -55,17 +58,12 @@ namespace DAL.DataAccess
         {
             using (var dbContext = new EventDbContext())
             {
-                var existingEvent = dbContext.Events
-                                             .FirstOrDefault(e => e.EventId == eventId);
+                var rowsAffected = dbContext.Database.ExecuteSqlRaw(
+                    "EXEC sp_DeleteEvent @EventId = {0}",
+                    eventId
+                );
 
-                if (existingEvent != null)
-                {
-                    dbContext.Events.Remove(existingEvent);
-                    dbContext.SaveChanges();
-                    return existingEvent;
-                }
-
-                return null;
+                return rowsAffected > 0 ? new EventDetails { EventId = eventId } : null;
             }
         }
 

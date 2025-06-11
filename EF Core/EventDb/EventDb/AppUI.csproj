@@ -18,8 +18,10 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
   </ItemGroup>
-
-  <ItemGroup>
+	  <ItemGroup>
+		  <None Update="appsettings.json">
+			  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		  </None>
     <ProjectReference Include="..\DAL\DAL.csproj" />
   </ItemGroup>
 

@@ -122,8 +122,8 @@ namespace AppUI
                     newEvent.Description = Console.ReadLine();
                     Console.Write("Status: ");
                     newEvent.Status = Console.ReadLine();
-                    eventDetailsBL.AddEvent(newEvent);
-                    Console.WriteLine("Event added.");
+                    var result = eventDetailsBL.AddEvent(newEvent);
+                    Console.WriteLine(result != null ? "Event added." : "Failed to add event.");
                     break;
 
                 case "2":
@@ -140,14 +140,14 @@ namespace AppUI
                     updateEvent.Description = Console.ReadLine();
                     Console.Write("New Status: ");
                     updateEvent.Status = Console.ReadLine();
-                    eventDetailsBL.UpdateEvent(updateEvent);
-                    Console.WriteLine("Event updated.");
+                    var updated = eventDetailsBL.UpdateEvent(updateEvent);
+                    Console.WriteLine(updated != null ? "Event updated." : "Failed to update event.");
                     break;
 
                 case "3":
                     Console.Write("Event ID to delete: ");
-                    eventDetailsBL.DeleteEvent(int.Parse(Console.ReadLine()));
-                    Console.WriteLine("Event deleted.");
+                    var deleted = eventDetailsBL.DeleteEvent(int.Parse(Console.ReadLine()));
+                    Console.WriteLine(deleted != null ? "Event deleted." : "Event not found.");
                     break;
 
                 case "4":
@@ -188,6 +188,8 @@ namespace AppUI
                     newSession.Description = Console.ReadLine();
                     Console.Write("Event ID: ");
                     newSession.EventId = int.Parse(Console.ReadLine());
+                    Console.Write("Session Url: ");
+                    newSession.SessionUrl = Console.ReadLine();
                     sessionInfoBL.AddSession(newSession);
                     Console.WriteLine("Session added.");
                     break;

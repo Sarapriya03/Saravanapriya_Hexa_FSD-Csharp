@@ -78,3 +78,4 @@ E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\Event
 E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\bin\Debug\net6.0\Mono.TextTemplating.dll
 E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\bin\Debug\net6.0\System.CodeDom.dll
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\bin\Debug\net6.0\appsettings.json
