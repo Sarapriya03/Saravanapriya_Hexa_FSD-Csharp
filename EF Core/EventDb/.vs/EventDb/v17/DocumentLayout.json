@@ -1,46 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\",
+  "WorkspaceRootPath": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\EF Core\\EventDb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\casestudy\\eventdb\\dal\\dataaccess\\eventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\eventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\casestudy\\eventdb\\dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|solutionrelative:dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\casestudy\\eventdb\\dal\\dataaccess\\ieventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\ieventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\casestudy\\eventdb\\dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|solutionrelative:dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\casestudy\\eventdb\\dal\\dataaccess\\iuserinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\iuserinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\casestudy\\eventdb\\dal\\dataaccess\\userinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\userinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\casestudy\\eventdb\\dal\\models\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|solutionrelative:dal\\models\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\casestudy\\eventdb\\dal\\dataaccess\\isessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\isessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\casestudy\\eventdb\\dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|solutionrelative:dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\casestudy\\eventdb\\dal\\dataaccess\\sessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79564CBD-4EFB-4D9D-8F76-36AC2AE7F012}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\sessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{767197B5-1AF7-468D-9B7F-CB087E770E3E}|EventDb\\AppUI.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\ef core\\eventdb\\eventdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767197B5-1AF7-468D-9B7F-CB087E770E3E}|EventDb\\AppUI.csproj|solutionrelative:eventdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,141 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventDbContext.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\Models\\EventDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\EventDbContext.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\Models\\EventDbContext.cs",
-              "RelativeToolTip": "DAL\\Models\\EventDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:54:22.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ISessionInfoRepo.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\ISessionInfoRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\DataAccess\\ISessionInfoRepo.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\ISessionInfoRepo.cs",
-              "RelativeToolTip": "DAL\\DataAccess\\ISessionInfoRepo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:42:13.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserInfoRepo.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\UserInfoRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\DataAccess\\UserInfoRepo.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\UserInfoRepo.cs",
-              "RelativeToolTip": "DAL\\DataAccess\\UserInfoRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:39:58.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserInfoRepo.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\IUserInfoRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\DataAccess\\IUserInfoRepo.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\IUserInfoRepo.cs",
-              "RelativeToolTip": "DAL\\DataAccess\\IUserInfoRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:41:20.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IEventDetailsRepo.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\IEventDetailsRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\DataAccess\\IEventDetailsRepo.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\IEventDetailsRepo.cs",
-              "RelativeToolTip": "DAL\\DataAccess\\IEventDetailsRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:41:42.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserInfo.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\Models\\UserInfo.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\UserInfo.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\Models\\UserInfo.cs",
-              "RelativeToolTip": "DAL\\Models\\UserInfo.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:25:05.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SessionInfoRepo.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\SessionInfoRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\DataAccess\\SessionInfoRepo.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\SessionInfoRepo.cs",
-              "RelativeToolTip": "DAL\\DataAccess\\SessionInfoRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:40:36.2Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EventDetailsRepo.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\EventDetailsRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\DataAccess\\EventDetailsRepo.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\DataAccess\\EventDetailsRepo.cs",
-              "RelativeToolTip": "DAL\\DataAccess\\EventDetailsRepo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\EF Core\\EventDb\\EventDb\\Program.cs",
+              "RelativeDocumentMoniker": "EventDb\\Program.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\EF Core\\EventDb\\EventDb\\Program.cs",
+              "RelativeToolTip": "EventDb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:40:18.778Z",
+              "WhenOpened": "2025-06-11T04:07:18.481Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SessionInfo.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\Models\\SessionInfo.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\SessionInfo.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\Models\\SessionInfo.cs",
-              "RelativeToolTip": "DAL\\Models\\SessionInfo.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:25:56.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EventDetails.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\Models\\EventDetails.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\EventDetails.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\CaseStudy\\EventDb\\DAL\\Models\\EventDetails.cs",
-              "RelativeToolTip": "DAL\\Models\\EventDetails.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:25:33.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

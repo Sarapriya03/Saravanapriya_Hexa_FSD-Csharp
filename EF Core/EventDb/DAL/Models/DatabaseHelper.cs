@@ -1,19 +1,18 @@
-﻿using System;
-using Microsoft.Extensions.Configuration; 
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.Extensions.Configuration;
+using System.IO;
 
 namespace DAL.Models
 {
-    public class DatabaseHelper
+    public static class DatabaseHelper
     {
         public static string GetConnectionString()
         {
-            var builder = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory()).AddJsonFile("appSettings.json", optional: true, reloadOnChange: true);
-            string connectionString = builder.Build().GetConnectionString("EventDbCon");
-            return connectionString;
+            var configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory()) 
+                .AddJsonFile("appsettings.json")
+                .Build();
+
+            return configuration.GetConnectionString("EventDbCon");
         }
     }
 }

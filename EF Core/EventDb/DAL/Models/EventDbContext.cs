@@ -1,9 +1,6 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.SqlServer;
+using System;
 
 namespace DAL.Models
 {
@@ -13,20 +10,38 @@ namespace DAL.Models
         public DbSet<EventDetails> Events { get; set; }
         public DbSet<SessionInfo> Sessions { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(DatabaseHelper.GetConnectionString());
+                optionsBuilder.UseSqlServer(
+                    DatabaseHelper.GetConnectionString(),
+                    options => options.EnableRetryOnFailure(5, TimeSpan.FromSeconds(10), null)
+                );
             }
+
             base.OnConfiguring(optionsBuilder);
         }
 
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<UserInfo>().HasData(new UserInfo { EmailId = "admin@gmail.com", UserName = "John", Password = "admin123", Role = "Admin"});
-            modelBuilder.Entity<EventDetails>().ToTable("EventDetails");
-            modelBuilder.Entity<SessionInfo>().HasOne<EventDetails>().WithMany().HasForeignKey(s => s.EventId);
+            // One-to-Many: EventDetails - Sessions
+            modelBuilder.Entity<SessionInfo>()
+                .HasOne<EventDetails>()
+                .WithMany()
+                .HasForeignKey(s => s.EventId);
+
+            // Seed data for default Admin user
+            modelBuilder.Entity<UserInfo>().HasData(
+                new UserInfo
+                {
+                    EmailId = "admin@gmail.com",
+                    UserName = "Admin",
+                    Password = "admin123",
+                    Role = "Admin"
+                });
+
             base.OnModelCreating(modelBuilder);
         }
     }

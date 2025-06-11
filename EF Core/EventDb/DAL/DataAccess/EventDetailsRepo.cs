@@ -12,7 +12,9 @@ namespace DAL.DataAccess
         {
             using (var dbContext = new EventDbContext())
             {
-                return dbContext.Events.Where(event => event.EventCategory.Equals(category)).ToList();
+                return dbContext.Events
+                                .Where(e => e.EventCategory.Equals(category, StringComparison.OrdinalIgnoreCase))
+                                .ToList();
             }
         }
 
@@ -20,7 +22,9 @@ namespace DAL.DataAccess
         {
             using (var dbContext = new EventDbContext())
             {
-                var existingEvent = dbContext.EventDetails.Where(e => e.EventId == eventDetails.EventId).FirstOrDefault();
+                var existingEvent = dbContext.Events
+                                             .FirstOrDefault(e => e.EventId == eventDetails.EventId);
+
                 if (existingEvent != null)
                 {
                     existingEvent.EventName = eventDetails.EventName;
@@ -28,9 +32,11 @@ namespace DAL.DataAccess
                     existingEvent.EventDate = eventDetails.EventDate;
                     existingEvent.Description = eventDetails.Description;
                     existingEvent.Status = eventDetails.Status;
+
                     dbContext.SaveChanges();
                     return existingEvent;
                 }
+
                 return null;
             }
         }
@@ -45,17 +51,20 @@ namespace DAL.DataAccess
             }
         }
 
-        public EventDetails DeleteEvent(int eventName)
+        public EventDetails DeleteEvent(int eventId)
         {
             using (var dbContext = new EventDbContext())
             {
-                var existingEvent = dbContext.Events.Where(e => e.EventName.Equals(eventName)).FirstOrDefault();
+                var existingEvent = dbContext.Events
+                                             .FirstOrDefault(e => e.EventId == eventId);
+
                 if (existingEvent != null)
                 {
                     dbContext.Events.Remove(existingEvent);
                     dbContext.SaveChanges();
                     return existingEvent;
                 }
+
                 return null;
             }
         }

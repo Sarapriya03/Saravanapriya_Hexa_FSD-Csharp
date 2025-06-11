@@ -13,6 +13,10 @@ namespace DAL.Models
     {
         [Key]
         [Required]
+
+        public int EventId { get; set; }
+
+        [Required]
         [StringLength(50, MinimumLength = 1)]
         public string EventName { get; set; } 
 

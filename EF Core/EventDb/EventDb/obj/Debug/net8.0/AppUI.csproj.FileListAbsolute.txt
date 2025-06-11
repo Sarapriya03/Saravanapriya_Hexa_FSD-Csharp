@@ -1,0 +1,15 @@
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\bin\Debug\net8.0\AppUI.exe
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\bin\Debug\net8.0\AppUI.deps.json
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\bin\Debug\net8.0\AppUI.runtimeconfig.json
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\bin\Debug\net8.0\AppUI.dll
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\bin\Debug\net8.0\AppUI.pdb
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\obj\Debug\net8.0\AppUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\obj\Debug\net8.0\AppUI.AssemblyInfoInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\obj\Debug\net8.0\AppUI.AssemblyInfo.cs
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\obj\Debug\net8.0\AppUI.csproj.CoreCompileInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\obj\Debug\net8.0\AppUI.sourcelink.json
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\obj\Debug\net8.0\AppUI.dll
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\obj\Debug\net8.0\refint\AppUI.dll
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\obj\Debug\net8.0\AppUI.pdb
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\obj\Debug\net8.0\AppUI.genruntimeconfig.cache
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\EF Core\EventDb\EventDb\obj\Debug\net8.0\ref\AppUI.dll
