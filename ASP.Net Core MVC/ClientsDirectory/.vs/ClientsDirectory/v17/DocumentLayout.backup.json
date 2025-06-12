@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\clientsdirectory\\clientsdirectory\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|solutionrelative:clientsdirectory\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\clientsdirectory\\clientsdirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|solutionrelative:clientsdirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\clientsdirectory\\clientsdirectory\\views\\client\\getdetailsbyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|solutionrelative:clientsdirectory\\views\\client\\getdetailsbyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\clientsdirectory\\clientsdirectory\\views\\client\\getdetailsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|solutionrelative:clientsdirectory\\views\\client\\getdetailsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetDetailsByEmail.cshtml",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Views\\Client\\GetDetailsByEmail.cshtml",
+              "RelativeDocumentMoniker": "ClientsDirectory\\Views\\Client\\GetDetailsByEmail.cshtml",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Views\\Client\\GetDetailsByEmail.cshtml",
+              "RelativeToolTip": "ClientsDirectory\\Views\\Client\\GetDetailsByEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T14:20:43.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetDetailsByCategory.cshtml",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Views\\Client\\GetDetailsByCategory.cshtml",
+              "RelativeDocumentMoniker": "ClientsDirectory\\Views\\Client\\GetDetailsByCategory.cshtml",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Views\\Client\\GetDetailsByCategory.cshtml",
+              "RelativeToolTip": "ClientsDirectory\\Views\\Client\\GetDetailsByCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T14:19:43.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Program.cs",
+              "RelativeDocumentMoniker": "ClientsDirectory\\Program.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Program.cs",
+              "RelativeToolTip": "ClientsDirectory\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:01:33.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "ClientsDirectory\\Controllers\\ClientController.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "ClientsDirectory\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:29:09.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
