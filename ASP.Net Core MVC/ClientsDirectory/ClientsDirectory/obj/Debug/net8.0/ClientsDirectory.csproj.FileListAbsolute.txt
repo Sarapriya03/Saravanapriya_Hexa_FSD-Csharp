@@ -34,3 +34,4 @@ E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\Clie
 E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\ClientsDirectory\ClientsDirectory\obj\Debug\net8.0\ClientsDirectory.pdb
 E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\ClientsDirectory\ClientsDirectory\obj\Debug\net8.0\ClientsDirectory.genruntimeconfig.cache
 E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\ClientsDirectory\ClientsDirectory\obj\Debug\net8.0\ref\ClientsDirectory.dll
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\ClientsDirectory\ClientsDirectory\bin\Debug\net8.0\libman.json

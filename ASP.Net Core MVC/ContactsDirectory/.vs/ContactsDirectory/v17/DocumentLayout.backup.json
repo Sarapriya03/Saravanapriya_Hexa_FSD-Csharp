@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|solutionrelative:contactsdirectory\\views\\contact\\showcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\contactsdirectory\\contactsdirectory\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|solutionrelative:contactsdirectory\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\contactsdirectory\\contactsdirectory\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|solutionrelative:contactsdirectory\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\contactsdirectory\\contactsdirectory\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|solutionrelative:contactsdirectory\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\contactsdirectory\\contactsdirectory\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|solutionrelative:contactsdirectory\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\contactsdirectory\\contactsdirectory\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|solutionrelative:contactsdirectory\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\contactsdirectory\\contactsdirectory\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|solutionrelative:contactsdirectory\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\contactsdirectory\\contactsdirectory\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|solutionrelative:contactsdirectory\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\contactsdirectory\\contactsdirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|solutionrelative:contactsdirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\contactsdirectory\\contactsdirectory\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{621137B4-2B94-4CCE-8D9B-657BDF1BF9D7}|ContactsDirectory\\ContactsDirectory.csproj|solutionrelative:contactsdirectory\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +46,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Models\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "ContactsDirectory\\Models\\ContactInfo.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Models\\ContactInfo.cs",
+              "RelativeToolTip": "ContactsDirectory\\Models\\ContactInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:40:20.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Program.cs",
               "RelativeDocumentMoniker": "ContactsDirectory\\Program.cs",
               "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Program.cs",
               "RelativeToolTip": "ContactsDirectory\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T11:54:18.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T11:54:18.678Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GetContactById.cshtml",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\Contact\\GetContactById.cshtml",
-              "RelativeDocumentMoniker": "ContactsDirectory\\Views\\Contact\\GetContactById.cshtml",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\Contact\\GetContactById.cshtml",
-              "RelativeToolTip": "ContactsDirectory\\Views\\Contact\\GetContactById.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T11:53:01.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AddContact.cshtml",
               "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\Contact\\AddContact.cshtml",
               "RelativeDocumentMoniker": "ContactsDirectory\\Views\\Contact\\AddContact.cshtml",
               "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\Contact\\AddContact.cshtml",
               "RelativeToolTip": "ContactsDirectory\\Views\\Contact\\AddContact.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-12T11:51:50.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShowContacts.cshtml",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\Contact\\ShowContacts.cshtml",
-              "RelativeDocumentMoniker": "ContactsDirectory\\Views\\Contact\\ShowContacts.cshtml",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\Contact\\ShowContacts.cshtml",
-              "RelativeToolTip": "ContactsDirectory\\Views\\Contact\\ShowContacts.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T11:50:18.661Z",
               "EditorCaption": ""
             },
             {
@@ -100,7 +90,7 @@
               "RelativeDocumentMoniker": "ContactsDirectory\\Controllers\\ContactController.cs",
               "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Controllers\\ContactController.cs",
               "RelativeToolTip": "ContactsDirectory\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAC+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T11:47:40.155Z",
               "EditorCaption": ""
@@ -108,14 +98,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ContactInfo.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Models\\ContactInfo.cs",
-              "RelativeDocumentMoniker": "ContactsDirectory\\Models\\ContactInfo.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Models\\ContactInfo.cs",
-              "RelativeToolTip": "ContactsDirectory\\Models\\ContactInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T11:45:43.499Z"
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContactsDirectory\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContactsDirectory\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T08:33:32.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowContacts.cshtml",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\Contact\\ShowContacts.cshtml",
+              "RelativeDocumentMoniker": "ContactsDirectory\\Views\\Contact\\ShowContacts.cshtml",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\Contact\\ShowContacts.cshtml",
+              "RelativeToolTip": "ContactsDirectory\\Views\\Contact\\ShowContacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T11:50:18.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetContactById.cshtml",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeDocumentMoniker": "ContactsDirectory\\Views\\Contact\\GetContactById.cshtml",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ContactsDirectory\\ContactsDirectory\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeToolTip": "ContactsDirectory\\Views\\Contact\\GetContactById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T11:53:01.506Z",
+              "EditorCaption": ""
             }
           ]
         }

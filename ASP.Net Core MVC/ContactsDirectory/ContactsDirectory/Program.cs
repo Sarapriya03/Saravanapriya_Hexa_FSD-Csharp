@@ -16,8 +16,10 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Contact}/{action=ShowContacts}/{id?}");
+app.UseEndpoints(endpoints =>
+{
+    //To enable attribute based routing
+    endpoints.MapControllers();
+});
 
 app.Run();

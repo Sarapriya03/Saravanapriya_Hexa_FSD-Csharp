@@ -33,3 +33,4 @@ E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\Cont
 E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\ContactsDirectory\ContactsDirectory\obj\Debug\net8.0\ContactsDirectory.pdb
 E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\ContactsDirectory\ContactsDirectory\obj\Debug\net8.0\ContactsDirectory.genruntimeconfig.cache
 E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\ContactsDirectory\ContactsDirectory\obj\Debug\net8.0\ref\ContactsDirectory.dll
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\ContactsDirectory\ContactsDirectory\bin\Debug\net8.0\libman.json
