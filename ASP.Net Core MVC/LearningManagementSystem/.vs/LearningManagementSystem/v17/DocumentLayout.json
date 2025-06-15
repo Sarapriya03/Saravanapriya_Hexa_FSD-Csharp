@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\LearningManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{698126CE-4E84-47DF-8236-9A7CCA91B41F}|LearningManagementSystem\\LearningManagementSystem.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\learningmanagementsystem\\learningmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698126CE-4E84-47DF-8236-9A7CCA91B41F}|LearningManagementSystem\\LearningManagementSystem.csproj|solutionrelative:learningmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\LearningManagementSystem\\LearningManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem\\Program.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\LearningManagementSystem\\LearningManagementSystem\\Program.cs",
+              "RelativeToolTip": "LearningManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:49:34.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
