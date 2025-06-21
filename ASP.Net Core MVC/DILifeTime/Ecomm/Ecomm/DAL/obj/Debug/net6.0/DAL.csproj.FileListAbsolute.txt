@@ -1,0 +1,46 @@
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\bin\Debug\net6.0\appSettings.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\bin\Debug\net6.0\DAL.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\obj\Debug\net6.0\DAL.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\EF Core\Demo\Ecomm\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\bin\Debug\net6.0\DAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\bin\Debug\net6.0\DAL.pdb
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\obj\Debug\net6.0\DAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\obj\Debug\net6.0\DAL.pdb
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\Hexaware\.NET_ANGULAR FSD\EF Core\Demos\Ecomm (1)\Ecomm\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\bin\Debug\net6.0\appSettings.json
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\bin\Debug\net6.0\DAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\bin\Debug\net6.0\DAL.pdb
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\obj\Debug\net6.0\DAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\obj\Debug\net6.0\DAL.pdb
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\Hexaware\.NET_ANGULAR FSD\Saravanapriya_Hexa_FSD-Csharp\ASP.Net Core MVC\DILifeTime\Ecomm\Ecomm\DAL\obj\Debug\net6.0\ref\DAL.dll

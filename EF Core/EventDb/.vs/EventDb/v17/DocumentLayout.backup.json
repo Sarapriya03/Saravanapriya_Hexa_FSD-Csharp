@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\EF Core\\EventDb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{767197B5-1AF7-468D-9B7F-CB087E770E3E}|EventDb\\AppUI.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\ef core\\eventdb\\eventdb\\eventdetailsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{767197B5-1AF7-468D-9B7F-CB087E770E3E}|EventDb\\AppUI.csproj|solutionrelative:eventdb\\eventdetailsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{767197B5-1AF7-468D-9B7F-CB087E770E3E}|EventDb\\AppUI.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\ef core\\eventdb\\eventdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{767197B5-1AF7-468D-9B7F-CB087E770E3E}|EventDb\\AppUI.csproj|solutionrelative:eventdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,19 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EventDetailsBL.cs",
-              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\EF Core\\EventDb\\EventDb\\EventDetailsBL.cs",
-              "RelativeDocumentMoniker": "EventDb\\EventDetailsBL.cs",
-              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\EF Core\\EventDb\\EventDb\\EventDetailsBL.cs",
-              "RelativeToolTip": "EventDb\\EventDetailsBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:21:09.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\EF Core\\EventDb\\EventDb\\Program.cs",
               "RelativeDocumentMoniker": "EventDb\\Program.cs",

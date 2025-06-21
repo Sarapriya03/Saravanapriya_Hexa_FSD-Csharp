@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\clientsdirectory\\clientsdirectory\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|solutionrelative:clientsdirectory\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\clientsdirectory\\clientsdirectory\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|solutionrelative:clientsdirectory\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\clientsdirectory\\clientsdirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|solutionrelative:clientsdirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core mvc\\clientsdirectory\\clientsdirectory\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F54EED3-7031-430A-8500-C5F99619F248}|ClientsDirectory\\ClientsDirectory.csproj|solutionrelative:clientsdirectory\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClientController.cs",
               "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "ClientsDirectory\\Controllers\\ClientController.cs",
@@ -47,32 +47,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AddClient.cshtml",
               "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Views\\Client\\AddClient.cshtml",
               "RelativeDocumentMoniker": "ClientsDirectory\\Views\\Client\\AddClient.cshtml",
               "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Views\\Client\\AddClient.cshtml",
               "RelativeToolTip": "ClientsDirectory\\Views\\Client\\AddClient.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T07:28:44.368Z"
+              "WhenOpened": "2025-06-13T07:28:44.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ShowAllClientDetails.cshtml",
               "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Views\\Client\\ShowAllClientDetails.cshtml",
               "RelativeDocumentMoniker": "ClientsDirectory\\Views\\Client\\ShowAllClientDetails.cshtml",
               "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Views\\Client\\ShowAllClientDetails.cshtml",
               "RelativeToolTip": "ClientsDirectory\\Views\\Client\\ShowAllClientDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-13T07:18:59.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core MVC\\ClientsDirectory\\ClientsDirectory\\Program.cs",
               "RelativeDocumentMoniker": "ClientsDirectory\\Program.cs",

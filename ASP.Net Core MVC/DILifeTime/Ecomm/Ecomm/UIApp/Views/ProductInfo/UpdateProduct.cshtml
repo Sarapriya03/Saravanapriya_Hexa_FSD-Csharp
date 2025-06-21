@@ -1,0 +1,44 @@
+﻿@model DAL.Models.Product
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Edit Product</title>
+</head>
+<body>
+    <a asp-route="ProductList">Show All Products</a>
+    <h3>Edit Product</h3>
+
+    <form asp-action="UpdateProduct" asp-controller="ProductInfo" method="post">
+
+        <!-- Hidden field to retain the ID -->
+        <input type="hidden" asp-for="ProductId" />
+
+        <div>
+            <label asp-for="ProductName"></label>
+            <input type="text" asp-for="ProductName" />
+        </div>
+
+        <div>
+            <label asp-for="Category"></label>
+            <select asp-for="Category">
+                <option value="">--Select--</option>
+                <option value="FMCG">FMCG</option>
+                <option value="Gadgets">Gadgets</option>
+                <option value="Electric">Electric</option>
+            </select>
+        </div>
+
+        <div>
+            <label asp-for="ListPrice"></label>
+            <input type="number" asp-for="ListPrice" />
+        </div>
+
+        <div>
+            <input type="submit" value="Update Product" />
+        </div>
+    </form>
+</body>
+</html>

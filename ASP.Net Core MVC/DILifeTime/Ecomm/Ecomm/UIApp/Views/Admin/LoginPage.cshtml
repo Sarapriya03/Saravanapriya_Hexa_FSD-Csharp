@@ -1,0 +1,42 @@
+﻿@model DAL.Models.AdminInfo
+
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+<html>
+<head>
+    <title>Login Page</title>
+</head>
+<body>
+
+    <h3>Login Page</h3>
+    <form asp-route="ValidateAdmin" method="post">
+        <div>
+            <label asp-for="EmailId">Email Id:</label><div>
+                <div><input type="email" asp-for="EmailId" placeholder="Enter an Email Id" /> </div>
+
+                <div>
+                    <label asp-for="Password">Password:</label><div>
+                        <div><input type="password" asp-for="Password" placeholder="Enter a Password" /> </div>
+
+                        <div>
+                            <label asp-for="Role">Role:</label><div>
+                                <div>
+                                    <select asp-for="Role">
+                                        <option value="" select>--SELECT--</option>
+                                        <option value="Admin">Admin</option>
+                                        <option value="Customer">Customer</option>
+                                    </select>
+                                </div>
+
+                                <div>
+                                    <input type="submit" value="Login">
+                                </div>
+    </form>
+    @{
+        var msg = ViewBag.error;
+        if (msg != null)
+        {
+            <p style="color:red">@msg</p>
+        }
+    }
+</body>
+</html>

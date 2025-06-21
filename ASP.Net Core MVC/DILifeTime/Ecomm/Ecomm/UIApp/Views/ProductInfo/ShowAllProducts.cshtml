@@ -1,0 +1,35 @@
+﻿@model List<DAL.Models.Product>
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@inject DAL.DataAccess.IProductRepo<DAL.Models.Product> productService
+<html>
+<head>
+    <title>Product List</title>
+</head>
+<body>
+    <a asp-route="AddProduct">Add New Product</a>
+    <h3>Total Product in the List:@productService.GetAllProducts().Count</h3>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>NAME</th>
+            <th>CATEGORY</th>
+            <th>LIST PRICE</th>
+        <tr>
+                @{
+                    foreach (var product in Model)
+                    {
+                <tr>
+                    <td>@product.ProductId</td>
+                    <td>@product.ProductName</td>
+                    <td>@product.Category</td>
+                    <td>@product.ListPrice</td>
+
+                    <td><a asp-route="GetById" asp-route-id="@product.ProductId">Details By Id</a></td>
+                    <td><a asp-route="RemoveProduct" asp-route-id="@product.ProductId">Delete</a></td>
+                    <td><a asp-route="UpdateProduct" asp-route-id="@product.ProductId">Edit</a></td>
+                </tr>
+                    }
+                }
+    </table>
+</body>
+</html>

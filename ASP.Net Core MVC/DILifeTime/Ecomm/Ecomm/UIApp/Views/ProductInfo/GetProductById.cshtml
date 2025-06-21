@@ -1,0 +1,15 @@
+﻿@model DAL.Models.Product
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+<html>
+<head>
+    <title>Product Details</title>
+</head>
+<body>
+    <a asp-route="ProductList">Product List</a>
+    <h3>Product Details:@Model.ProductName</h3>
+    <div>ID:@Model.ProductId</div>
+    <div>Category:@Model.Category</div>
+    <div>PRICE:@Model.ListPrice</div>
+</body>
+<html>

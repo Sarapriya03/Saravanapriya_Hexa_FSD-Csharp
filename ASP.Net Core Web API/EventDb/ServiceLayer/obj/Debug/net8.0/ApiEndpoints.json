@@ -1,0 +1,323 @@
+[
+  {
+    "ContainingType": "ServiceLayer.Controllers.EventDetailsController",
+    "Method": "DeleteEvent",
+    "RelativePath": "api/v{version}/EventDetails/DeleteEvent/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.EventDetailsController",
+    "Method": "GetAllEvents",
+    "RelativePath": "api/v{version}/EventDetails/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.EventDetailsController",
+    "Method": "GetEventsById",
+    "RelativePath": "api/v{version}/EventDetails/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.EventDetailsController",
+    "Method": "AddEvent",
+    "RelativePath": "api/v{version}/EventDetails/SaveEvent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventDetails",
+        "Type": "DAL.Models.EventDetails",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.EventDetailsController",
+    "Method": "UpdateEvent",
+    "RelativePath": "api/v{version}/EventDetails/UpdateEvent",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventDetails",
+        "Type": "DAL.Models.EventDetails",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.ParticipantEventDetailsController",
+    "Method": "DeleteParticipantEventDetails",
+    "RelativePath": "api/v{version}/ParticipantEventDetails/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.ParticipantEventDetailsController",
+    "Method": "GetAllParticipantEventDetails",
+    "RelativePath": "api/v{version}/ParticipantEventDetails/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.ParticipantEventDetailsController",
+    "Method": "GetParticipantEventDetailsById",
+    "RelativePath": "api/v{version}/ParticipantEventDetails/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.ParticipantEventDetailsController",
+    "Method": "AddParticipantEventDetails",
+    "RelativePath": "api/v{version}/ParticipantEventDetails/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "participant",
+        "Type": "DAL.Models.ParticipantEventDetails",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.ParticipantEventDetailsController",
+    "Method": "UpdateParticipantEventDetails",
+    "RelativePath": "api/v{version}/ParticipantEventDetails/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "participant",
+        "Type": "DAL.Models.ParticipantEventDetails",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.UserInfoController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/v{version}/UserInfo/Delete/{emailId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.UserInfoController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/v{version}/UserInfo/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.UserInfoController",
+    "Method": "GetUserByEmail",
+    "RelativePath": "api/v{version}/UserInfo/GetByEmail/{emailId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.UserInfoController",
+    "Method": "AddUser",
+    "RelativePath": "api/v{version}/UserInfo/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "DAL.Models.UserInfo",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.UserInfoController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/v{version}/UserInfo/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "DAL.Models.UserInfo",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceLayer.Controllers.UserInfoController",
+    "Method": "ValidateUser",
+    "RelativePath": "api/v{version}/UserInfo/ValidateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userInfo",
+        "Type": "DAL.Models.UserInfo",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

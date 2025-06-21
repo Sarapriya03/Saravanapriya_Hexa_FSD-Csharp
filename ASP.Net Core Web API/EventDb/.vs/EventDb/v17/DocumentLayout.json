@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core Web API\\EventDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D76789-ADF2-4EB2-BD62-CEE7C785D691}|AppUI\\AppUI.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core web api\\eventdb\\appui\\views\\eventdetails\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0D76789-ADF2-4EB2-BD62-CEE7C785D691}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\eventdetails\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D76789-ADF2-4EB2-BD62-CEE7C785D691}|AppUI\\AppUI.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core web api\\eventdb\\appui\\controllers\\eventdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D76789-ADF2-4EB2-BD62-CEE7C785D691}|AppUI\\AppUI.csproj|solutionrelative:appui\\controllers\\eventdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D76789-ADF2-4EB2-BD62-CEE7C785D691}|AppUI\\AppUI.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core web api\\eventdb\\appui\\views\\eventdetails\\geteventsbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0D76789-ADF2-4EB2-BD62-CEE7C785D691}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\eventdetails\\geteventsbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D76789-ADF2-4EB2-BD62-CEE7C785D691}|AppUI\\AppUI.csproj|e:\\hexaware\\.net_angular fsd\\saravanapriya_hexa_fsd-csharp\\asp.net core web api\\eventdb\\appui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D76789-ADF2-4EB2-BD62-CEE7C785D691}|AppUI\\AppUI.csproj|solutionrelative:appui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetEventsById.cshtml",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core Web API\\EventDb\\AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core Web API\\EventDb\\AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T04:13:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEvent.cshtml",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core Web API\\EventDb\\AppUI\\Views\\EventDetails\\AddEvent.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\EventDetails\\AddEvent.cshtml",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core Web API\\EventDb\\AppUI\\Views\\EventDetails\\AddEvent.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\EventDetails\\AddEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T04:12:13.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventDetailsController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core Web API\\EventDb\\AppUI\\Controllers\\EventDetailsController.cs",
+              "RelativeDocumentMoniker": "AppUI\\Controllers\\EventDetailsController.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core Web API\\EventDb\\AppUI\\Controllers\\EventDetailsController.cs",
+              "RelativeToolTip": "AppUI\\Controllers\\EventDetailsController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAQwG0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T04:07:50.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core Web API\\EventDb\\AppUI\\Program.cs",
+              "RelativeDocumentMoniker": "AppUI\\Program.cs",
+              "ToolTip": "E:\\Hexaware\\.NET_ANGULAR FSD\\Saravanapriya_Hexa_FSD-Csharp\\ASP.Net Core Web API\\EventDb\\AppUI\\Program.cs",
+              "RelativeToolTip": "AppUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T04:05:28.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

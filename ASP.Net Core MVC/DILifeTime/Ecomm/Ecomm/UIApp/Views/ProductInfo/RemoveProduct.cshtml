@@ -1,0 +1,25 @@
+﻿@model DAL.Models.Product
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Remove Product</title>
+</head>
+<body>
+    <a asp-route="ProductList">Show All Products</a>
+    <h3>Remove Product</h3>
+
+    <form asp-route="RemoveProduct" method="post">
+        <div>
+            <label asp-for="ProductId">Product ID:</label>
+            <input type="number" asp-for="ProductId" placeholder="Enter Product ID to remove" />
+        </div>
+
+        <div>
+            <input type="submit" value="Delete Product" />
+        </div>
+    </form>
+</body>
+</html>
