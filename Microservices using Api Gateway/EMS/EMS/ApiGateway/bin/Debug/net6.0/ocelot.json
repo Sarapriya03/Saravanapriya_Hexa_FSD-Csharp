@@ -1,0 +1,91 @@
+{
+  "Routes": [
+    //department microservice-GET ALL
+    {
+      "DownstreamPathTemplate": "/api/Department/GetAll",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5198
+        }
+
+      ],
+      "UpstreamPathTemplate": "/gateway/departments",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    //department microservice-GET by id
+    {
+      "DownstreamPathTemplate": "/api/Department/GetById/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5198
+        }
+
+      ],
+      "UpstreamPathTemplate": "/gateway/department/{id}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    //department microservice-POST
+    {
+      "DownstreamPathTemplate": "/api/Department/SaveDept",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5198
+        }
+
+      ],
+      "UpstreamPathTemplate": "/gateway/department/SaveDept",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    //department microservice-Delete
+    {
+      "DownstreamPathTemplate": "/api/Department/DeleteDept/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5198
+        }
+
+      ],
+      "UpstreamPathTemplate": "/gateway/department/DeleteDept/{id}",
+      "UpstreamHttpMethod": [ "DELETE" ]
+    },
+    //department microservice-PUT
+    {
+      "DownstreamPathTemplate": "/api/Department/UpdateDept",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5198
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/department/UpdateDept",
+      "UpstreamHttpMethod": [ "PUT" ]
+    },
+
+    //Employee Microservice-GET ALL
+    {
+      "DownstreamPathTemplate": "/api/Employee/GetAll",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5042
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/employees",
+      "UpstreamHttpMethod": [ "GET" ]
+    }
+
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5272"
+  }
+}

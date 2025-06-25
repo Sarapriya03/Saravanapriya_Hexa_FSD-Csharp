@@ -1,0 +1,19 @@
+﻿
+@model List<HttpClientApp.Models.Department>
+
+    <h3>Department List</h3>
+    <table>
+        <tr>
+            <th>CODE</th><th>NAME</th>
+        </tr>
+            @{
+
+                foreach(var dept in Model)
+                {
+                    <tr>
+                        <td>@dept.DeptCode</td>
+                        <td>@dept.DeptName</td>
+                    </tr>
+                }
+            }
+    </table>

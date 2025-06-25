@@ -1,0 +1,46 @@
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.csproj.AssemblyReference.cache
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.AssemblyInfoInputs.cache
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.AssemblyInfo.cs
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.csproj.CoreCompileInputs.cache
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.deps.json
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.runtimeconfig.json
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.dll
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.pdb
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.dll
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\obj\Debug\net6.0\refint\DepartmentDAL.dll
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.pdb
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.genruntimeconfig.cache
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\obj\Debug\net6.0\ref\DepartmentDAL.dll
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\DepartmentDAL\bin\Debug\net6.0\appSettings.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\bin\Debug\net6.0\appSettings.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.deps.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.runtimeconfig.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.pdb
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.csproj.AssemblyReference.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.AssemblyInfoInputs.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.AssemblyInfo.cs
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.csproj.CoreCompileInputs.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\obj\Debug\net6.0\refint\DepartmentDAL.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.pdb
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.genruntimeconfig.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\DepartmentDAL\obj\Debug\net6.0\ref\DepartmentDAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\bin\Debug\net6.0\appSettings.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.deps.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.runtimeconfig.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\bin\Debug\net6.0\DepartmentDAL.pdb
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.csproj.AssemblyReference.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.AssemblyInfoInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.AssemblyInfo.cs
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.csproj.CoreCompileInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.sourcelink.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\obj\Debug\net6.0\refint\DepartmentDAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.pdb
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\obj\Debug\net6.0\DepartmentDAL.genruntimeconfig.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\DepartmentDAL\obj\Debug\net6.0\ref\DepartmentDAL.dll

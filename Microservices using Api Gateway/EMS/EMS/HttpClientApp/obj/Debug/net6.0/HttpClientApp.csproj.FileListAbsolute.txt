@@ -1,0 +1,62 @@
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.AssemblyInfoInputs.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.AssemblyInfo.cs
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.csproj.CoreCompileInputs.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.RazorAssemblyInfo.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.RazorAssemblyInfo.cs
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\bin\Debug\net6.0\appsettings.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.staticwebassets.endpoints.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.exe
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.deps.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.runtimeconfig.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.pdb
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\scopedcss\bundle\HttpClientApp.styles.css
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\refint\HttpClientApp.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.pdb
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.genruntimeconfig.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\HttpClientApp\obj\Debug\net6.0\ref\HttpClientApp.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\bin\Debug\net6.0\appsettings.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.staticwebassets.endpoints.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.exe
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.deps.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.runtimeconfig.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\bin\Debug\net6.0\HttpClientApp.pdb
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.AssemblyInfoInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.AssemblyInfo.cs
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.csproj.CoreCompileInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.RazorAssemblyInfo.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.RazorAssemblyInfo.cs
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.sourcelink.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\scopedcss\bundle\HttpClientApp.styles.css
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets\msbuild.HttpClientApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets\msbuild.HttpClientApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets\msbuild.build.HttpClientApp.props
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HttpClientApp.props
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HttpClientApp.props
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\refint\HttpClientApp.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.pdb
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\HttpClientApp.genruntimeconfig.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\HttpClientApp\obj\Debug\net6.0\ref\HttpClientApp.dll

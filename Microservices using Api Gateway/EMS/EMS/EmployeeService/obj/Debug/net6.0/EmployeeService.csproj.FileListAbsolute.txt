@@ -1,0 +1,178 @@
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\appsettings.Development.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\appsettings.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.staticwebassets.endpoints.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.exe
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.deps.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.runtimeconfig.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.pdb
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Azure.Core.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Azure.Identity.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\System.Text.Json.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\EmployeeDAL.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\bin\Debug\net6.0\EmployeeDAL.pdb
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.csproj.AssemblyReference.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.AssemblyInfoInputs.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.AssemblyInfo.cs
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.csproj.CoreCompileInputs.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.MvcApplicationPartsAssemblyInfo.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\scopedcss\bundle\EmployeeService.styles.css
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets.build.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets.development.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\Employee.406C22F7.Up2Date
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\refint\EmployeeService.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.pdb
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.genruntimeconfig.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeService\obj\Debug\net6.0\ref\EmployeeService.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\appsettings.Development.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\appsettings.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.staticwebassets.endpoints.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.exe
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.deps.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.runtimeconfig.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\EmployeeService.pdb
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Azure.Core.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Azure.Identity.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\System.Text.Json.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\EmployeeDAL.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\bin\Debug\net6.0\EmployeeDAL.pdb
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.csproj.AssemblyReference.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.AssemblyInfoInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.AssemblyInfo.cs
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.csproj.CoreCompileInputs.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.MvcApplicationPartsAssemblyInfo.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.sourcelink.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\scopedcss\bundle\EmployeeService.styles.css
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets.build.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets.development.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeService.props
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeService.props
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeService.props
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\Employee.406C22F7.Up2Date
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\refint\EmployeeService.dll
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.pdb
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\EmployeeService.genruntimeconfig.cache
+E:\Hexaware\.NET_ANGULAR FSD\Microservices\Demo\Microservices using Api Gateway\Microservices using Api Gateway\EMS\EMS\EmployeeService\obj\Debug\net6.0\ref\EmployeeService.dll
